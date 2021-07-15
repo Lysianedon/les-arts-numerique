@@ -1020,8 +1020,7 @@ footer .hautdepage {
     .section1 p {
         font-size: 123%;
         padding-left: 2%;
-
-}
+    }
 
     .section1 img{
     max-width: fit-content;
@@ -1079,10 +1078,14 @@ footer .hautdepage {
    .section5 .code {
        font-size: larger;
    }
-/* ------------------ SECTION 8 + AJOUT CAROUSSEL VERSION MOBILE -------------*/
+/* ------------------ SECTION 8 + 9+ AJOUT CAROUSSEL VERSION MOBILE -------------*/
 
 .section8 .slide {
     display: none;
+}
+
+.section9 p {
+    text-justify: right;
 }
 
 
